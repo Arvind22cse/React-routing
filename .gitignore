@@ -4,3 +4,4 @@ public
 assets
 package-lock.json
 package.json
+.eslintrc.cjs
