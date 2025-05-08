@@ -31,7 +31,7 @@ function Body() {
   </div>
 </nav>
       <center>
-        <h1 className="h1">Arvind M</h1>
+        <h1 className="h1">Arvind M Company</h1>
   
       </center>
      
