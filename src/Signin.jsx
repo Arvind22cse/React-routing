@@ -29,7 +29,7 @@ function Signin() {
         onMouseEnter={() => setOpacity(0.9)}
         onMouseLeave={() => setOpacity(0.5)}
       >
-        <h1 id="log">LOG IN</h1>
+        <h1 id="log">LOG IN ARVI</h1>
         <form action="/login" method="post">
           <label htmlFor="email">E-MAIL</label>
           <input type="text" id="email" name="email" required/><br/><br/>
