@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git :'https://github.com/Arvind22cse/React-routing.git'
+                git 'https://github.com/Arvind22cse/React-routing.git'
             }
         }
 
