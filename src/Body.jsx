@@ -18,7 +18,7 @@ function Body() {
       
       <li class="nav-item">
       <form action="/contact">
-        <a class="nav-link" href="/contact">Contact</a>
+        <a class="nav-link" href="/contact">Cont</a>
         </form>
       </li>
       
