@@ -24,7 +24,7 @@ function Body() {
       
       
       <li class="nav-item">
-        <a class="nav-link" href="/login">Sign in</a>
+        <a class="nav-link" href="/login">Log in</a>
       </li>
     </ul>
     
